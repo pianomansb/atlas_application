@@ -32,6 +32,7 @@ public class Importer implements FileVisitor<Path> {
 		START_DIR = start_dir;
 	}
 	
+	
 	/**
 	 * Try to find the image with filename given, appended to START_DIR, and copy to 
 	 * dm.START_DIRECTORY
