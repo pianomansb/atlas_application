@@ -3,6 +3,7 @@
 Welcome to Atlas, a picture-oriented flashcard program.
 
 Download Atlas.jar for the current runnable version
+
 optionally download starterdeck_anatomy.tar for pre-created cards
 
 Once the program is running, click the question mark or navigate to 
